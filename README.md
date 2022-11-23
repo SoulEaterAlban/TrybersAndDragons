@@ -1,4 +1,4 @@
-# :construction: README customizado em construção ! :construction:
+# Projeto Trybers And Dragons - Trybe
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
@@ -11,3 +11,17 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+
+## Projeto Desenvolvido em TypeScript com node e express
+
+Desenvolvido por Breno Vinicius (SoulEaterAlban)
+
+Arquivos da trybe
+
+.eslintignore
+.eslintrc.json
+.gitignore
+docker-compose.yml
+package-lock.json
+tsconfig.json
+utils.ts
